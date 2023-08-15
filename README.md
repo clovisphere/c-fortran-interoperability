@@ -1,4 +1,4 @@
-# C-Fortarn Interoperability (an example)
+# C-Fortran Interoperability (an example)
 
 Read more [here](https://fortranwiki.org/fortran/show/C+interoperability).
 
